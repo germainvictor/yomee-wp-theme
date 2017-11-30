@@ -133,7 +133,7 @@
 					<div class="row">
 						<div class="col-md-8 offset-md-2  ">
 							<div class="lines" style="background-image: url('<?=get_template_directory_uri() .'/assets/images/lines.png'?>');">
-							<p class="lines-text"><?=_e('avec 2 produits')?></p>
+							<p class="lines-text"><?=_e('avec 2 produits', 'yomee-theme')?></p>
 							</div>
 						</div>
 					</div>
