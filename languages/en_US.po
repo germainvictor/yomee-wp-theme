@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-11-30 21:46+0100\n"
+"PO-Revision-Date: 2017-11-30 22:11+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: 404.php:12
+msgid "Quelque chose s'est mal passé"
+msgstr "Something bad happened"
+
+#: 404.php:14
+msgid "Retourner à l'accueil"
+msgstr "Back home"
+
+#: footer.php:23
+msgid "© 2017 YOMEE un produit de Lecker Labs. Tous droits réservés"
+msgstr "© 2017 YOMEE By Lecker Labs all rights reserved"
+
+#: footer.php:26
+msgid "Nous contacter"
+msgstr "Contact us"
+
+#: front-page.php:56
+msgid "En savoir plus"
+msgstr "Know more"
+
+#: front-page.php:86
+msgid "Voir toutes les recettes"
+msgstr "See all recipes"
+
+#: inc/cpt_recipies.php:42
+msgid "Type"
+msgstr "Type"
+
+#: page-templates/page-produit.php:21
+msgid "Découvrir"
+msgstr "Discover"
+
+#: page-templates/page-produit.php:103
+msgid "Pré-commandez votre Yomee"
+msgstr "Pre-order your Yomee"
+
+#: page-templates/page-produit.php:136
+msgid "avec 2 produits"
+msgstr "with 2 products"
+
+#: page-templates/page-recipies.php:28
+msgid "Toutes"
+msgstr "All"
+
+#: page-templates/page-recipies.php:76
+msgid "Plus de recettes"
+msgstr "See more recipes"
+
+#: single-recettes.php:43
+msgid "Ingrédients"
+msgstr "Ingredients"
+
+#: single-recettes.php:51
+msgid "Préparation"
+msgstr "Preparation"
+
+#: template-parts/template-recipe.php:26
+msgid "Voir la recette"
+msgstr "See recipe"

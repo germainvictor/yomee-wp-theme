@@ -1,0 +1,19 @@
+@import './helpers/fonts.scss';
+@import './helpers/variables.scss';
+@import './helpers/general.scss';
+
+@import './libs/bootstrap/bootstrap-grid.scss';
+@import './libs/plyr/plyr.scss';
+
+@import './templates-parts/header.scss';
+
+@import './layouts/default.scss';
+@import './layouts/404-page.scss';
+@import './layouts/front-page.scss';
+@import './layouts/recipes-page.scss';
+@import './layouts/about-page.scss';
+@import './layouts/product-page.scss';
+@import './layouts/recipes-single.scss';
+
+@import './templates-parts/t_recipes.scss';
+@import './templates-parts/footer.scss';
