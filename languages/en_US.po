@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-11-30 21:46+0100\n"
-"PO-Revision-Date: 2017-11-30 22:11+0100\n"
+"POT-Creation-Date: 2017-11-30 23:22+0100\n"
+"PO-Revision-Date: 2017-11-30 23:32+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -16,11 +16,11 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: node_modules\n"
 
-#: 404.php:12
+#: 404.php:11
 msgid "Quelque chose s'est mal passé"
 msgstr "Something bad happened"
 
-#: 404.php:14
+#: 404.php:13
 msgid "Retourner à l'accueil"
 msgstr "Back home"
 
@@ -47,6 +47,10 @@ msgstr "Type"
 #: page-templates/page-produit.php:21
 msgid "Découvrir"
 msgstr "Discover"
+
+#: page-templates/page-produit.php:27
+msgid "Fermer"
+msgstr "Close"
 
 #: page-templates/page-produit.php:103
 msgid "Pré-commandez votre Yomee"

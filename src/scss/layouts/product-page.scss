@@ -123,6 +123,11 @@ body.page-template-page-produit {
   border-color: #fff;
   font-size: 1rem;
   color: #fff;
+  transition: all 0.3s;
+  &:hover {
+    background: white;
+    color: $yomee-blue; 
+  }
 }
 
 .banner-full {

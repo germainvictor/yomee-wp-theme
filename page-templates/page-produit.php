@@ -24,7 +24,7 @@
 										<div class="showcase-video">
 											<div data-type="youtube" data-video-id="<?=the_field('hero_video_id')?>"></div>
 										</div>
-										<div class="showcase-video-close"><a href="" class="show-video-closeBtn">Fermer</a></div>
+										<div class="showcase-video-close"><a href="" class="show-video-closeBtn"><?= _e('Fermer','yomee-theme'); ?></a></div>
 									</div>
 								</div>
 							</div>

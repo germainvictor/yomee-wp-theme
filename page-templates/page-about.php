@@ -67,7 +67,7 @@
 			<div class="container-about container">
 				<section class="row partners">
 					<div class="col-12">
-						<h2>Partners</h2>
+						<h2><?=the_field('partners_title')?></h2>
 					</div>
 					<?php 
 						if( have_rows('partners_list') ): 

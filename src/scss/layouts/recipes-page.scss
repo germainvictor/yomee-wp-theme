@@ -1,6 +1,6 @@
 .container-recipes {
 	margin-top: 75px;
-	
+	min-height: calc(100% - 150px);
 	.recipes__subtitle {
 		color:$yomee-blue;
 		font-family: $core-font;
